@@ -1,0 +1,10 @@
+C:\net\capacitacionnet\SolucionIntegral\WindowsFormsTesting\bin\Debug\WindowsFormsTesting.exe.config
+C:\net\capacitacionnet\SolucionIntegral\WindowsFormsTesting\bin\Debug\WindowsFormsTesting.exe
+C:\net\capacitacionnet\SolucionIntegral\WindowsFormsTesting\bin\Debug\WindowsFormsTesting.pdb
+C:\net\capacitacionnet\SolucionIntegral\WindowsFormsTesting\obj\Debug\WindowsFormsTesting.csprojAssemblyReference.cache
+C:\net\capacitacionnet\SolucionIntegral\WindowsFormsTesting\obj\Debug\WindowsFormsTesting.Form1.resources
+C:\net\capacitacionnet\SolucionIntegral\WindowsFormsTesting\obj\Debug\WindowsFormsTesting.Properties.Resources.resources
+C:\net\capacitacionnet\SolucionIntegral\WindowsFormsTesting\obj\Debug\WindowsFormsTesting.csproj.GenerateResource.cache
+C:\net\capacitacionnet\SolucionIntegral\WindowsFormsTesting\obj\Debug\WindowsFormsTesting.csproj.CoreCompileInputs.cache
+C:\net\capacitacionnet\SolucionIntegral\WindowsFormsTesting\obj\Debug\WindowsFormsTesting.exe
+C:\net\capacitacionnet\SolucionIntegral\WindowsFormsTesting\obj\Debug\WindowsFormsTesting.pdb

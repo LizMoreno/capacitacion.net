@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Agregar";
+}
+@using (Html.BeginForm("CompletadoAgregar", "Home", FormMethod.Post))
+{
+    <h1>Complete los siguientes campos</h1>
+    <br />
+    <p> Nombre:</p>
+    <input type="text" name="DisplayName" placeholder="DisplayName" />
+    <br />
+    <br />
+    <p> Email:</p>
+    <input type="text" id="Name" name="Email" placeholder="Email" />
+    <br /> <br />
+    <p> Password: </p>
+    <input type="text" id="Name" name="Password" placeholder="Password" />
+    <br /><br />
+    <p> Activo: </p>
+   <input type="checkbox" value="true" name="Active"  />
+    <br />
+
+    <input type="submit" value="Enviar" />
+}

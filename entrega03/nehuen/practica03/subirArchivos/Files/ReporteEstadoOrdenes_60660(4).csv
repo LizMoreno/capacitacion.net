@@ -1,0 +1,2 @@
+order_id;account;symbol;transact_time;side;ord_type;order_price;order_size;exec_inst;time_in_force;expire_date;stop_px;last_cl_ord_id;text;exec_type;ord_status;last_price;last_qty;avg_price;cum_qty;leaves_qty
+"269-O0fVpqZTghmS-238142";"60660";"MERV - XMEV - BBAR - 48hs";"2019-09-20 15:36:15";"BUY";"LIMIT";98.05;101.0;"";"DAY";"";;"LF82Na101YcQ9lgC";" ";"F";"Parcialmente ejecutada";98.05;100.0;98.05;100.0;1.0

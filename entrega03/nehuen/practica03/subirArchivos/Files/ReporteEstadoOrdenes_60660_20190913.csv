@@ -1,0 +1,3 @@
+order_id;account;symbol;transact_time;side;ord_type;order_price;order_size;exec_inst;time_in_force;expire_date;stop_px;last_cl_ord_id;text;exec_type;ord_status;last_price;last_qty;avg_price;cum_qty;leaves_qty
+"269-O0fQl8Bz1dVt-069566";"60660";"MERV - XMEV - TXAR - 48hs";"2019-09-13 15:39:09";"SELL";"LIMIT";15.15;1460.0;"";"DAY";"";;"i4TTAU40ZqZEcSOC";" ";"F";"Parcialmente ejecutada";15.15;34.0;15.15;34.0;1426.0
+"269-O0fQl8Bz1dVt-069566";"60660";"MERV - XMEV - TXAR - 48hs";"2019-09-13 15:42:11";"SELL";"LIMIT";15.15;1460.0;"";"DAY";"";;"i4TTAU40ZqZEcSOC";" ";"F";"Ejecutada";15.15;1426.0;15.15;1460.0;0.0

@@ -1,0 +1,1 @@
+order_id;account;symbol;transact_time;side;ord_type;order_price;order_size;exec_inst;time_in_force;expire_date;stop_px;last_cl_ord_id;text;exec_type;ord_status;last_price;last_qty;avg_price;cum_qty;leaves_qty

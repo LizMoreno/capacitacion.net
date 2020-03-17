@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}<p>Inicio</p> <br />
+@using (Html.BeginForm("Agregar", "home", FormMethod.Post))
+{
+    <input type="submit" value="Agregar" />
+}
+
+<table>
+    @foreach (SEG_Users index in ViewBag.SEG_Users)
+    {
+    <tr>
+        <td>@index.Id </td>
+        <td>@index.DisplayName </td>
+        <td>@index.Email </td>
+        <td>@index.Password </td>
+        <td>@index.Active </td>
+        <td> @Html.ActionLink("Editar", "Editar", new { Id = index.Id })</td>
+        <td> @Html.ActionLink("Eliminar", "Eliminar", new { Id = index.Id })</td>
+    </tr>
+    }
+
+</table>
+

@@ -1,0 +1,10 @@
+C:\Users\liz.moreno.in\capacitacionnet\entrega01\liz\Calculadora 0.1\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\liz.moreno.in\capacitacionnet\entrega01\liz\Calculadora 0.1\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\liz.moreno.in\capacitacionnet\entrega01\liz\Calculadora 0.1\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\liz.moreno.in\capacitacionnet\entrega01\liz\Calculadora 0.1\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\liz.moreno.in\capacitacionnet\entrega01\liz\Calculadora 0.1\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\liz.moreno.in\capacitacionnet\entrega01\liz\Calculadora 0.1\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\liz.moreno.in\capacitacionnet\entrega01\liz\Calculadora 0.1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\liz.moreno.in\capacitacionnet\entrega01\liz\Calculadora 0.1\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\liz.moreno.in\capacitacionnet\entrega01\liz\Calculadora 0.1\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\liz.moreno.in\capacitacionnet\entrega01\liz\Calculadora 0.1\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache

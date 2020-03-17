@@ -1,0 +1,9 @@
+﻿Esta es mi lista de clientes
+<br />
+
+@foreach (WebApplication1.Operacione item in ViewBag.Operaciones)
+{
+    <span style="color:red">  <b>@item.account</b> @item.avg_price  </span>
+   
+    <br />
+}

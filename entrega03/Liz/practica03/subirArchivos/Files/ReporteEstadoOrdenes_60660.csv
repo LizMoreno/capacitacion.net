@@ -1,0 +1,5 @@
+order_id;account;symbol;transact_time;side;ord_type;order_price;order_size;exec_inst;time_in_force;expire_date;stop_px;last_cl_ord_id;text;exec_type;ord_status;last_price;last_qty;avg_price;cum_qty;leaves_qty
+"269-O0fOaFkCSo2X-177601";"60660";"MERV - XMEV - AY24D - 48hs";"2019-09-10 14:56:17";"BUY";"LIMIT";49.08;965.0;"";"DAY";"";;"EFwwwiYRPJ8aNyvm";" ";"F";"Ejecutada";49.04;965.0;49.04;965.0;0.0
+"269-O0fOaFkCSppT-186214";"60660";"MERV - XMEV - AY24 - 48hs";"2019-09-10 15:15:23";"SELL";"LIMIT";3068.5;965.0;"";"DAY";"";;"8epFJRP2gja1Zfdf";" ";"F";"Ejecutada";3068.5;965.0;3068.5;965.0;0.0
+"269-O0fOaFkCSuih-208551";"60660";"MERV - XMEV - PAMP - 48hs";"2019-09-10 16:33:47";"SELL";"LIMIT";40.1;271.0;"";"DAY";"";;"-7Y_nc5J4HEyjc3r";" ";"F";"Parcialmente ejecutada";40.1;247.0;40.1;247.0;24.0
+"269-O0fOaFkCSuih-208551";"60660";"MERV - XMEV - PAMP - 48hs";"2019-09-10 16:34:03";"SELL";"LIMIT";40.1;271.0;"";"DAY";"";;"-7Y_nc5J4HEyjc3r";" ";"F";"Ejecutada";40.1;24.0;40.1;271.0;0.0

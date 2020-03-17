@@ -1,0 +1,10 @@
+C:\net\capacitacionnet\SolucionIntegral\ConsolaTesting\bin\Debug\ConsolaTesting.exe.config
+C:\net\capacitacionnet\SolucionIntegral\ConsolaTesting\bin\Debug\ConsolaTesting.exe
+C:\net\capacitacionnet\SolucionIntegral\ConsolaTesting\bin\Debug\ConsolaTesting.pdb
+C:\net\capacitacionnet\SolucionIntegral\ConsolaTesting\obj\Debug\ConsolaTesting.csprojAssemblyReference.cache
+C:\net\capacitacionnet\SolucionIntegral\ConsolaTesting\obj\Debug\ConsolaTesting.csproj.CoreCompileInputs.cache
+C:\net\capacitacionnet\SolucionIntegral\ConsolaTesting\obj\Debug\ConsolaTesting.exe
+C:\net\capacitacionnet\SolucionIntegral\ConsolaTesting\obj\Debug\ConsolaTesting.pdb
+C:\net\capacitacionnet\SolucionIntegral\ConsolaTesting\bin\Debug\ClassLibrary1.dll
+C:\net\capacitacionnet\SolucionIntegral\ConsolaTesting\bin\Debug\ClassLibrary1.pdb
+C:\net\capacitacionnet\SolucionIntegral\ConsolaTesting\obj\Debug\ConsolaTesting.csproj.CopyComplete

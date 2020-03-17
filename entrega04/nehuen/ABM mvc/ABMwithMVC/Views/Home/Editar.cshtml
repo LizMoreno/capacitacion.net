@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Editar";
+}
+
+
+@using (Html.BeginForm("Completado", "home", FormMethod.Post))
+{
+
+    <h1>Complete los siguientes campos</h1>
+    <br />
+    <p> Nombre:</p>
+    <input type="hidden" name="Id" value="@ViewBag.Current.Id" />
+
+    <input type="text" name="DisplayName" placeholder="Nombre" value="@ViewBag.Current.DisplayName" />
+    <br />
+    <br />
+    <p> Email:</p>
+    <input type="text" id="Name" name="Email" placeholder="Email" value="@ViewBag.Current.Email" />
+    <br /> <br />
+    <p> Password: </p>
+    <input type="text" id="Name" name="Password" placeholder="Password" value="@ViewBag.Current.Password" />
+    <br /><br />
+
+    <p> Activo: </p>
+    @Html.CheckBox("Active", (bool) ViewBag.Current.Active)
+ 
+
+
+
+    <br /><br />
+    <input type="submit" value="Enviar" />
+}

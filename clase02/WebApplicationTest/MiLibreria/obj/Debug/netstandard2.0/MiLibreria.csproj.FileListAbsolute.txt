@@ -1,0 +1,9 @@
+C:\Users\Jose\source\repos\WebApplicationTest\MiLibreria\bin\Debug\netstandard2.0\MiLibreria.deps.json
+C:\Users\Jose\source\repos\WebApplicationTest\MiLibreria\bin\Debug\netstandard2.0\MiLibreria.dll
+C:\Users\Jose\source\repos\WebApplicationTest\MiLibreria\bin\Debug\netstandard2.0\MiLibreria.pdb
+C:\Users\Jose\source\repos\WebApplicationTest\MiLibreria\obj\Debug\netstandard2.0\MiLibreria.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\WebApplicationTest\MiLibreria\obj\Debug\netstandard2.0\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\WebApplicationTest\MiLibreria\obj\Debug\netstandard2.0\MiLibreria.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\WebApplicationTest\MiLibreria\obj\Debug\netstandard2.0\MiLibreria.AssemblyInfo.cs
+C:\Users\Jose\source\repos\WebApplicationTest\MiLibreria\obj\Debug\netstandard2.0\MiLibreria.dll
+C:\Users\Jose\source\repos\WebApplicationTest\MiLibreria\obj\Debug\netstandard2.0\MiLibreria.pdb
